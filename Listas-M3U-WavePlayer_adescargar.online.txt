@@ -1,45 +1,45 @@
 #EXTM3U
 
-#EXTINF: ⚽ MUNDIAL QATAR 2022 ⚽
+⚽ MUNDIAL QATAR 2022 ⚽
 https://waveplayerapp.page.link/EaVG
 
-#EXTINF:📺 CANALES LATINOS
+📺 CANALES LATINOS
 https://waveplayerapp.page.link/vn1s
 
-#EXTINF:📺 CANALES LATINOS 2 (SIN XXX)
+📺 CANALES LATINOS 2 (SIN XXX)
 https://waveplayerapp.page.link/PtdQ
 
-#EXTINF:📺 CANALES LATINOS 3
+📺 CANALES LATINOS 3
 https://waveplayerapp.page.link/3v1p
 
-#EXTINF:⚽ SOLO DEPORTS 🏈
+⚽ SOLO DEPORTS 🏈
 https://waveplayerapp.page.link/kqza
 
-#EXTINF:🔞 CANALES XXX 🔞
+🔞 CANALES XXX 🔞
 https://waveplayerapp.page.link/T5QC
 
-#EXTINF:🎬 PELÍCULAS EN AUDIO LATINO
+🎬 PELÍCULAS EN AUDIO LATINO
 https://waveplayerapp.page.link/Bt5C
 
-#EXTINF:🇦🇷 CANALES ARGENTINA
+🇦🇷 CANALES ARGENTINA
 https://waveplayerapp.page.link/RKxq
 
-#EXTINF:📺 CANALES PLUTOTV
+📺 CANALES PLUTOTV
 https://waveplayerapp.page.link/uC18
 
-#EXTINF:📺 CANALES VIX
+📺 CANALES VIX
 https://waveplayerapp.page.link/KjjJ
 
-#EXTINF:🇲🇽 MÉXICO
+🇲🇽 MÉXICO
 https://waveplayerapp.page.link/diZQ
 
-#EXTINF:🇺🇾 URUGUAY
+🇺🇾 URUGUAY
 https://waveplayerapp.page.link/bdgq
 
-#EXTINF:🇵🇾 PARAGUAY
+🇵🇾 PARAGUAY
 https://waveplayerapp.page.link/Z28k
 
-#EXTINF:🇪🇨 ECUADOR
+🇪🇨 ECUADOR
 https://waveplayerapp.page.link/XDMv
 
 #EXTINF:🇵🇪 PERÚ
