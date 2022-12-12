@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF: ⚽ MUNDIAL QATAR 2022 ⚽
+https://waveplayerapp.page.link/EaVG
+
+#EXTINF:📺 CANALES LATINOS
+https://waveplayerapp.page.link/vn1s
+
+#EXTINF:📺 CANALES LATINOS 2 (SIN XXX)
+https://waveplayerapp.page.link/PtdQ
+
+#EXTINF:📺 CANALES LATINOS 3
+https://waveplayerapp.page.link/3v1p
+
+#EXTINF:⚽ SOLO DEPORTS 🏈
+https://waveplayerapp.page.link/kqza
+
+#EXTINF:🔞 CANALES XXX 🔞
+https://waveplayerapp.page.link/T5QC
+
+#EXTINF:🎬 PELÍCULAS EN AUDIO LATINO
+https://waveplayerapp.page.link/Bt5C
+
+#EXTINF:🇦🇷 CANALES ARGENTINA
+https://waveplayerapp.page.link/RKxq
+
+#EXTINF:📺 CANALES PLUTOTV
+https://waveplayerapp.page.link/uC18
+
+#EXTINF:📺 CANALES VIX
+https://waveplayerapp.page.link/KjjJ
+
+#EXTINF:🇲🇽 MÉXICO
+https://waveplayerapp.page.link/diZQ
+
+#EXTINF:🇺🇾 URUGUAY
+https://waveplayerapp.page.link/bdgq
+
+#EXTINF:🇵🇾 PARAGUAY
+https://waveplayerapp.page.link/Z28k
+
+#EXTINF:🇪🇨 ECUADOR
+https://waveplayerapp.page.link/XDMv
+
+#EXTINF:🇵🇪 PERÚ
+https://waveplayerapp.page.link/byAN
+
+#EXTINF:🇪🇸 ESPAÑA
+https://waveplayerapp.page.link/YzVz
+
+#EXTINF:🇩🇴 REPÚBLICA DOMINICANA
+https://waveplayerapp.page.link/ojYG
+
+#EXTINF:🇨🇺 🇻🇪 CUBA Y VENEZUELA
+https://waveplayerapp.page.link/mi2e
+
+#EXTINF:🇨🇷 COSTA RICA
+https://waveplayerapp.page.link/X1xy
+
+#EXTINF:🇨🇴 COLOMBIA
+https://waveplayerapp.page.link/KZq8
+
+#EXTINF:🇨🇱 CHILE
+https://waveplayerapp.page.link/tLUu
+
+#EXTINF:🇧🇷 BRASIL
+https://waveplayerapp.page.link/EnE5
+
+#EXTINF:🇧🇴 BOLIVIA
+https://waveplayerapp.page.link/AmFB
